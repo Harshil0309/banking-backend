@@ -11,8 +11,6 @@ import gr.aueb.cf.model.User;
 /**
  * The {@code Main} class demonstrates the functionality of Account, OverdraftAccount,
  * and OverdraftJointAccount by simulating deposit and withdrawal operations.
- *
- * @author Ntirintis John
  */
 public class Main {
     public static void main(String[] args) {
